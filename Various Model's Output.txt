@@ -1,0 +1,13 @@
+Models Output:
+
+1. Decesion Tree Model:
+    Mean: 4.3006605546702845
+    Scores: 0.729652783005028
+    
+2. Linear Regressor Model:
+    Mean: 5.037482786117752
+    Scores: 1.059438240560695
+    
+3. Random Forest Regressor Model:
+    Mean: 3.331282519726964
+    Scores: 0.7374984674928198
